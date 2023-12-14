@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Advent of Svelte 2023 (Christmas edition)</h1>
+<a href="/naughty-or-nice">Day 1: Naughty or nice</a>
